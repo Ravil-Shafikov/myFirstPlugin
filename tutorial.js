@@ -1,6 +1,6 @@
 let sayHi = function() {
   alert( "Привет Ravil" );
-  alert( "Hellow Ravil" )
+  alert( "Hellow World" )
 };
 
 let func = sayHi;
