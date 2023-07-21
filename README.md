@@ -1,3 +1,3 @@
-# myFirstPlugin
+# My exercises on JS
 
-Added text
+[Leason Function](index.html)
