@@ -1,1 +1,3 @@
 # myFirstPlugin
+
+Added text
